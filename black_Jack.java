@@ -165,7 +165,7 @@ public class black_Jack {
 
                     /*
                      if player has BJ dealer must also have BJ or does not hit
-                     dealers does not hit if player cards go over 21
+                     dealer does not hit if player cards go over 21
                      dealer must hit until her cards total up to 17 points and
                      hits on soft 17 (sum 17 with an Ace) but stands on hard 17 (sum 17 with no Ace)
                     */
