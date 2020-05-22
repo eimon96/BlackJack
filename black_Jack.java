@@ -155,7 +155,7 @@ public class black_Jack {
             }
 
             if (Aces && !bjd) {
-                if (sum > 22 || sumd + 10 < 22 && sumd + 10 > 17 || bj) {
+                if (sum > 21 || sumd + 10 < 22 && sumd + 10 > 17 || bj) {
                     sumd += 10;
                 }
             }
@@ -251,5 +251,5 @@ public class black_Jack {
 /*
  Just for Fun
  --eimon9j6--
- Last Modified 22/5/2020 v1.191
+ Last Modified 23/5/2020 v1.20
 */
